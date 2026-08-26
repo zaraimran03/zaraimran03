@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=43B8C9&center=true&vCenter=true&width=700&lines=Building+AI-powered+web+applications+%F0%9F%9A%80;React+%7C+Django+%7C+Python+%7C+Flutter;Final-year+BSIET+%40+University+of+Lahore;Turning+ideas+into+intelligent+products+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=43B8C9&center=true&vCenter=true&width=700&lines=Associate+Software+Engineer+%40+Compilex+Technologies;Building+AI-powered+web+applications+%F0%9F%9A%80;React+%7C+Django+%7C+Python+%7C+Flutter;Final-year+BSIET+%40+University+of+Lahore)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,8 +20,9 @@
 
 ## 👩‍💻 About Me
 
+- 💼 Currently working as an **Associate Software Engineer** (Intern) at **Compilex Technologies**, building a multi-tenant SaaS product on the **MERN stack**
 - 🎓 Final-year **BSIET** student at the **University of Lahore** (2023–2027)
-- 🔭 Currently building **CulinaryAI Pro** — an AI-powered recipe web app using React, Django & Google Gemini API
+- 🔭 Building **CulinaryAI Pro** *(in progress)* — an AI-powered recipe web app using React, Django & Google Gemini API
 - 🌱 Learning **Django REST Framework**, **Cloud Computing**, and **MLOps**
 - 👯 Looking to collaborate on **full-stack web apps** and **AI/ML projects**
 - 🤝 Looking for help with **DevOps pipelines** and **cloud deployment**
@@ -30,9 +31,29 @@
 
 ---
 
+## 💼 Experience
+
+**Associate Software Engineer (Intern)** — Compilex Technologies · *Jun 2026 – Present*
+
+Building scalable, multi-tenant SaaS features on the MERN stack (MongoDB, Express.js, React.js, Node.js): RESTful APIs with JWT auth and role-based access control, responsive React dashboards, and optimised MongoDB schemas. Currently building **NEXUS**, a full-stack CRM, from scratch — authentication module complete, contact management and pipeline views next.
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+</div>
+
+---
+
 ## 🚀 Featured Project — CulinaryAI Pro
 
-> An intelligent culinary assistant powered by **Google Gemini API**, built with React + Django REST Framework. Features a **Generational Adaptation Engine** that personalises recipes based on dietary needs and skill level, plus an **Antigravity Mode** (Inverse Culinary Intelligence) for experimental recipe generation.
+![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat-square)
+
+> An intelligent culinary assistant powered by **Google Gemini API**, built with React + Django REST Framework. Features a **Generational Adaptation Engine** that personalises recipes based on dietary needs and skill level, plus an **Antigravity Mode** (Inverse Culinary Intelligence) for experimental recipe generation. This is my flagship final-year project — actively in development.
 
 <div align="center">
 
@@ -55,6 +76,18 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🏢 NEXUS CRM
+![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat-square)
+
+Full-stack CRM built from scratch at Compilex Technologies. **JWT/cookie-based auth with OTP verification** complete; contact management and pipeline views next.
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 University Chatbot System
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github)](https://github.com/zaraimran03/University_Chatbot_System)
 
@@ -65,6 +98,8 @@ NLP-powered chatbot with a custom **TF-IDF retrieval engine** covering 50+ unive
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📱 Food Delivery App
@@ -76,8 +111,6 @@ Cross-platform mobile app for **Android & iOS** with product listing, cart manag
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🩸 Blood Bridge
@@ -90,6 +123,8 @@ Donor-recipient matching platform with **real-time blood type filtering** using 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📊 Smart Attendance & Behaviour Monitor
@@ -99,6 +134,9 @@ Normalised relational schema with **stored procedures** to automate attendance t
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -125,10 +163,13 @@ Normalised relational schema with **stored procedures** to automate attendance t
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
